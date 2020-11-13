@@ -1,0 +1,4 @@
+api_key: mysupersecretapikey
+api_server: https://app.picterra.ch/public/api/v2/
+raster_folder_id: i-am-a-folder-id
+detector_name: My first CWL detector
